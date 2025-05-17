@@ -126,8 +126,6 @@ set a password you'll remember
 - Now we can create a new database by right clicking the highlighted row and proceeding to create the new database
 - name the database osTicket durng creation, the install happening in the browser will make use of this
 
-![install os](https://github.com/user-attachments/assets/5772d396-16d9-4896-9e2f-3eb2bc013007)
-
 ![install os](https://github.com/user-attachments/assets/3dddc165-d441-440a-87e4-24ee35d7f6e8)
  
 -  Now we fill in the database settings in the browser as shown in the image above and click install now
