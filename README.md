@@ -151,4 +151,5 @@ The 2 pictures below will display the only SQL configurations you'll have to adj
  - Admin user info
  - MySQL database credentials for osTicket
 - refrence the image above
-- And congratulations! Your osTicket installation is now complete. You’ll be redirected to the login page and provided with access to documentation, control panel, and user dashboard
+
+*Congratulations! Your osTicket installation is now complete. You’ll be redirected to the login page and provided with access to documentation, control panel, and user dashboard*
